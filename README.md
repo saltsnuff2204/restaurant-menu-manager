@@ -1,5 +1,7 @@
 # Restaurant Menu Manager
 
+[![CI](https://github.com/saltsnuff2204/restaurant-menu-manager/actions/workflows/ci.yml/badge.svg)](https://github.com/saltsnuff2204/restaurant-menu-manager/actions/workflows/ci.yml)
+
 A compact full-stack learning project for managing restaurant dishes and drinks. It pairs a Java REST API and PostgreSQL data store with a responsive React dashboard.
 
 ## Project status
